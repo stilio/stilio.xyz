@@ -1,3 +1,3 @@
 window.addEventListener("load", (event) => {
-  new cursoreffects.fairyDustCursor();
+  new cursoreffects.followingDotCursor();
 });
