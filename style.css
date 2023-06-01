@@ -18,17 +18,7 @@ a, a:hover, a:visited, a:active {
     cursor: pointer;
 }
 
-body {
-    transition: all 0.2s ease-in-out;
-    background-color: #eeece0;
-    color: #475c6c;
-  }
-  
-.dark-mode {
-    background-color: #475c6c;
-    color: #eeece0;
-    transition: all 0.2s ease-in-out;
-}
+
 
 .bottom {
     position:absolute;
